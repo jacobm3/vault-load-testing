@@ -17,8 +17,8 @@ seq_start=1
 seq_stop=200
 
 # how many requests per second
-write_rate=500
-read_rate=500
+write_rate=100
+read_rate=200
 
 # how long to run for
 write_duration=10s
